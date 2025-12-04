@@ -7,78 +7,76 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
-*I"Klavier	*
-*I'Klav.	*
 *clefF4	*clefG2
 *k[f#c#g#d#]	*k[f#c#g#d#]
 *M3/4	*M3/4
-=1	=1
+=	=
 *E:	*
 .	16qqb/
 4r	(4bb^
-=	=
+=1	=1
 .	(16qqee#X/)
 4B	4ff#
 4A 4B 4d#	4b
 .	16qqgg#/
 4A 4B 4d#	4aa^
-=	=
+=2	=2
 .	16qqdd#/
 4E	4ee
 4G# 4B 4e	4b)
 4G# 4B 4e	(4gg#^m
-=	=
+=3	=3
 4B	8dd#L)
 .	8ff#J
 4A 4B 4d#	8aaL
 .	8ccc#J
 4A 4B 4d#	8fff#L
 .	8ddd#J
-=	=
+=4	=4
 .	16qqbb/
 4E	(4bbb
 4G# 4B 4e	8ggg#)
 .	8r
 .	16qqb/
 4G# 4B 4e	(4bb^
-=	=
+=5	=5
 .	(16qqee#X/)
 4B	4ff#
 4A 4B 4d#	4b
 .	16qqgg#/
 4A 4B 4d#	4aa^
 !!linebreak:original
-=	=
+=6	=6
 .	16qqdd#/
 4E	4ee
 4G# 4B 4e	4b)
 4G# 4B 4e	(4gg#^m
-=	=
+=7	=7
 4B	8dd#L)
 .	8ff#J
 4A 4B 4d#	8aaL
 .	8ccc#J
 4A 4B 4d#	8fff#^L
 .	8ddd#J
-=	=
+=8	=8
 2E 2G# 2B 2e	2eee
 =:|!|:	=:|!|:
 4r	(4bb
-=	=
+=9	=9
 4B	8aL)
 .	8cc#J
 4A 4B 4d#	8ff#L
 .	8dd#J
 4A 4B 4d#	8b
 .	8r
-=	=
+=10	=10
 4E	8eeL
 .	8gg#J
 4G# 4B 4e	8ccc#L
 .	8bbJ
 4G# 4B 4e	8gg#
 .	8r
-=	=
+=11	=11
 4B	8aaL
 .	8ccc#J
 4A 4B 4d#	8fff#L
@@ -86,7 +84,7 @@
 4A 4B 4d#	8bb
 .	8r
 !!linebreak:original
-=	=
+=12	=12
 .	16qqeee/
 *	*8va
 4E	8eeeeL
@@ -96,28 +94,28 @@
 4G# 4B 4e	8bb
 .	8r
 *	*X8va
-=	=
+=13	=13
 4B	8aL
 .	8cc#J
 4A 4B 4d#	8ff#L
 .	8dd#J
 4A 4B 4d#	8b
 .	8r
-=	=
+=14	=14
 4E	8eeL
 .	8gg#J
 4G# 4B 4e	8ccc#L
 .	8bbJ
 4G# 4B 4e	8gg#
 .	8r
-=	=
+=15	=15
 4B	8aaL
 .	8ccc#J
 4A 4B 4d#	8fff#L
 .	8ddd#J
 .	16qqbb/
 4A 4B 4d#	(4bbb
-=	=
+=16	=16
 2E 2G# 2B 2e	4eee)
 .	4r
 =:|!	=:|!
@@ -127,5 +125,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2025/12/03
 !!!ENC: Florian Moldaschl
-!!!EEV: 2025/12/03
+!!!EEV: 2025/12/04
 !!!title: @{OPR}, @{SCT} №@{ONM}
